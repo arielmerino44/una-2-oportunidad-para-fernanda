@@ -1,0 +1,379 @@
+body{
+    background-color: rgb(25, 11, 58);
+    left: 100px;
+    
+}
+
+#index{
+    background-image: url(love\ joker.01.jpg);
+  border-left: 400px;
+  border-right: 400px;
+  background-size:100% ;
+  font-display: 100%;
+  right: 100px;
+  height: 600px;
+  width: 400px;
+  top: 0px;
+  border-radius: 2%;
+  background-size: 100%;
+  top: 0%;
+  margin-left: auto ; 
+  margin-right:auto;
+  
+  
+  
+} 
+
+.como_estas{
+    margin-top: 2%;
+    margin-left:20% ;
+}
+
+/*botones del index */
+#mal1{
+    
+    background-color: rgba(119, 8, 8, 0.811);
+    
+    border-radius: 10%;
+    left: 6%;
+    
+    top: 80%;
+    position: absolute;
+    
+    
+    
+}
+#bien1{
+    
+    background-color: rgb(19, 8, 48);
+    border-radius: 10%;
+    left: 180px;
+    top: 80%;
+    position: absolute;
+    
+}
+/*los estilos de la web1*/
+
+#web1{
+    background-image: url(love\ jokwer.03.jpg);
+    border-left: 400px;
+  border-right: 400px;
+  background-size:100% ;
+  font-display: 100%;
+  right: 100px;
+  height: 600px;
+  width: 400px;
+  top: 0px;
+  border-radius: 2%;
+  background-size: 100%;
+  top: 0%;
+  margin-left: auto ; 
+  margin-right:auto;
+
+}
+/*botones de la web1*/
+#tristesa{
+    
+    background-color: rgba(119, 8, 8, 0.811);
+    border-radius: 10%;
+    left: 6%;
+    
+    top: 60%;
+    position: absolute;
+}
+#amor{
+    background-color: rgb(27, 18, 73);
+    border-radius: 10%;
+    left: 180px;
+    top: 60%;
+    position: absolute;
+}
+/*los estilos de la web2*/
+#web2{
+    background-image: url(joker.02.gif);
+    border-left: 400px;
+  border-right: 400px;
+  background-size:100% ;
+  font-display: 100%;
+  right: 100px;
+  height: 600px;
+  width: 400px;
+  top: 0px;
+  border-radius: 2%;
+  background-size: 100%;
+  top: 0%;
+  margin-left: auto ; 
+  margin-right:auto;
+
+}
+#nada{
+    background-color: rgba(119, 8, 8, 0.811);
+    border-radius: 10%;
+    left: 6%;
+    
+    top: 80%;
+    position: absolute;
+}
+#todo{
+    background-color: rgb(31, 9, 66);
+    border-radius: 10%;
+    left: 180px;
+    
+    position: absolute;
+    
+}
+/*los estilos de la web3*/
+#web3{
+    background-image:url(joker.01.jpg) ;
+    border-left: 400px;
+    border-right: 400px;
+    background-size:100% ;
+    font-display: 100%;
+    right: 100px;
+    height: 800px;
+    width: 500px;
+    top: 0px;
+    border-radius: 2%;
+    background-size: 100%;
+    top: 0%;
+    margin-left: auto ; 
+    margin-right:auto;
+  
+}
+/*!botoneas de la web3*/
+#no2{
+    background-color: rgba(119, 8, 8, 0.811);
+    border-radius: 10%;
+    left: 6%;
+    
+    
+    position: absolute;
+}
+#si2{
+    background-color: rgb(34, 19, 99);
+    border-radius: 10%;
+    left: 180px;
+    
+    position: absolute;
+    
+}
+.parrafos_comunes{
+    
+    color: #fff;
+	
+	text-shadow:
+		0 0 5px rgba(0,178,255,1),
+		0 0 10px rgba(0,178,255,1),
+		0 0 20px rgba(0,178,255,1),
+		0 0 40px rgba(38,104,127,1),
+		0 0 80px rgba(38,104,127,1),
+		0 0 90px rgba(38,104,127,1),
+		0 0 100px rgba(38,104,127,1),
+		0 0 140px rgba(38,104,127,1),
+		0 0 180px rgba(38,104,127,1);
+
+}
+.negrita{
+    color: rgb(243, 14, 14);
+	
+	text-shadow:
+		0 0 5px rgba(0,178,255,1),
+		0 0 10px rgba(0,178,255,1),
+		0 0 20px rgba(0,178,255,1),
+		0 0 40px rgba(38,104,127,1),
+		0 0 80px rgba(38,104,127,1),
+		0 0 90px rgba(38,104,127,1),
+		0 0 100px rgba(38,104,127,1),
+		0 0 140px rgba(38,104,127,1),
+		0 0 180px rgba(38,104,127,1);
+}
+.boton{
+    background-color: rgb(15, 15, 66);
+    color: rgb(243, 14, 14);
+	
+	text-shadow:
+		0 0 5px rgba(0,178,255,1),
+		0 0 10px rgba(0,178,255,1),
+		0 0 20px rgba(0,178,255,1),
+		0 0 40px rgba(38,104,127,1),
+		0 0 80px rgba(38,104,127,1),
+		0 0 90px rgba(38,104,127,1),
+		0 0 100px rgba(38,104,127,1),
+		0 0 140px rgba(38,104,127,1),
+		0 0 180px rgba(38,104,127,1);
+}
+/*!!estilos de la web 4*/
+#web4{
+    background-image: url(love\ joker.05.jpg);
+    border-left: 400px;
+    border-right: 400px;
+    background-size:100% ;
+    font-display: 100%;
+    right: 100px;
+    height: 800px;
+    width: 500px;
+    top: 0px;
+    border-radius: 2%;
+    background-size: 100%;
+    top: 0%;
+    margin-left: auto ; 
+    margin-right:auto;
+}
+/*!estilos de la web5*/
+#web5{
+    background-image: url(joker.04.jpg);
+    border-left: 400px;
+    border-right: 400px;
+    background-size:100% ;
+    font-display: 100%;
+    right: 100px;
+    height: 800px;
+    width: 560px;
+    top: 0px;
+    border-radius: 2%;
+    background-size: 100%;
+    top: 0%;
+    margin-left: auto ; 
+    margin-right:auto;
+}
+/*!estilos de laa web 6*/
+.comunes{
+    color: rgb(14, 243, 83);
+	
+	text-shadow:
+		0 0 5px rgba(0,178,255,1),
+		0 0 10px rgba(0,178,255,1),
+		0 0 20px rgba(0,178,255,1),
+		0 0 40px rgba(38,104,127,1),
+		0 0 80px rgba(38,104,127,1),
+		0 0 90px rgba(38,104,127,1),
+		0 0 100px rgba(38,104,127,1),
+		0 0 140px rgba(38,104,127,1),
+		0 0 180px rgba(38,104,127,1);
+}
+.parrafos{
+    color: rgb(251, 255, 2);
+	
+	text-shadow:
+		0 0 5px rgba(0,178,255,1),
+		0 0 10px rgba(0,178,255,1),
+		0 0 20px rgba(0,178,255,1),
+		0 0 40px rgba(38,104,127,1),
+		0 0 80px rgba(38,104,127,1),
+		0 0 90px rgba(38,104,127,1),
+		0 0 100px rgba(38,104,127,1),
+		0 0 140px rgba(38,104,127,1),
+		0 0 180px rgba(38,104,127,1);
+
+}
+#mientes{
+    display: none;
+}
+#exacto{
+    display: none;
+}
+#soyo{
+    display: none;
+}
+#sensillo{
+    display: none;
+}
+#amor{
+    display: none;
+
+}
+.amarillo{
+    color: rgb(250, 239, 92);
+	
+	text-shadow:
+		0 0 5px rgba(0,178,255,1),
+		0 0 10px rgba(0,178,255,1),
+		0 0 20px rgba(0,178,255,1),
+		0 0 40px rgba(38,104,127,1),
+		0 0 80px rgba(38,104,127,1),
+		0 0 90px rgba(38,104,127,1),
+		0 0 100px rgba(38,104,127,1),
+		0 0 140px rgba(38,104,127,1),
+		0 0 180px rgba(38,104,127,1);
+}
+.love{
+    color: rgba(241, 24, 24, 0.548);
+	
+	text-shadow:
+		0 0 5px rgba(0,178,255,1),
+		0 0 10px rgba(0,178,255,1),
+		0 0 20px rgba(0,178,255,1),
+		0 0 40px rgba(38,104,127,1),
+		0 0 80px rgba(38,104,127,1),
+		0 0 90px rgba(38,104,127,1),
+		0 0 100px rgba(38,104,127,1),
+		0 0 140px rgba(38,104,127,1),
+		0 0 180px rgba(38,104,127,1);
+}
+#final{
+    display: none;
+}
+video{
+    height: 100px;
+    width: 100px;
+}
+img{
+    width: 100px;
+    height: 140px;
+}
+
+  
+  .corazon {
+    animation: latido 1s infinite;
+    background-color: red;
+    display: inline-block;
+    height: 50px;
+    margin: 0 10px;
+    top: 0;
+    transform: rotate(-45deg);
+    position: absolute; 
+    left: 45%; 
+    top: 45%;
+    width: 50px;
+  }
+  
+  .corazon:before,
+  .corazon:after {
+    content: "";
+    background-color: red;
+    border-radius: 50%;
+    height: 50px;
+    position: absolute;
+    width: 50px;
+  }
+  
+  .corazon:before {
+    top: -25px;
+    left: 0;
+  }
+  
+  .corazon:after {
+    left: 25px;
+    top: 0;
+  }
+  
+  @keyframes latido {
+    0%
+    {
+      transform: scale( 1 )
+        rotate(-45deg);    
+    }
+    20%
+    {
+      transform: scale( 1.25 )
+        rotate(-45deg);  
+    }
+     40%
+    {
+      transform: scale( 1.5 )
+        rotate(-45deg);
+    }
+  }
+  .corazon{
+      top: 100%;
+  }
